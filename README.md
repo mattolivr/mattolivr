@@ -17,8 +17,3 @@ Sou desenvolvedor full stack desde 2022, enquanto curso Engenharia de Software n
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) 
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattolivr/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/mattolivr_/)
