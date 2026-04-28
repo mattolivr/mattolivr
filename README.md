@@ -1,6 +1,6 @@
 ## Prazer, eu sou o Matheus! 👋
 
-Sou desenvolvedor full stack desde 2022, enquanto curso Engenharia de Software no [Instituto Infnet](https://www.infnet.edu.br/infnet/home/) e Segurança da Informação na [FATEC Americana](https://www.fatec.edu.br/). Curto muito jogos, tecnologia, séries e estou sempre com fones de ouvido. Me verá por aí como **mattolivr**.
+Sou desenvolvedor full stack desde 2022 cursando Segurança da Informação na [FATEC Americana](https://www.fatec.edu.br/). Curto muito jogos, tecnologia, séries e estou sempre com fones de ouvido. Me verá por aí como **mattolivr**.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
